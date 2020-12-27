@@ -8,4 +8,5 @@ than ./YouTubeVideoDownloader
 And you are good to go
 just paste the link and click the download button.
 
-NOTE: If facing any issue with download path just change it with your desired loaction 
+NOTE: You need to install pytube and tkinter to use this script 
+If facing any issue with download path just change it with your desired loaction 
