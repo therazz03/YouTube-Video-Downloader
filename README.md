@@ -1,12 +1,34 @@
-# YouTube-Video-Downloader
-A simple script to download YouTube Video
 
-First clone the repository with git clone 
-than use chmod +x YouTubeVideoDownloader.py
-than ./YouTubeVideoDownloader
+# YouTube Video Downloader
 
-And you are good to go
-just paste the link and click the download button.
+It's a simple python script to download videos from YouTube   
 
-NOTE: You need to install pytube and tkinter to use this script 
-If facing any issue with download path just change it with your desired loaction 
+This is a linux only script.
+
+
+## Installation 
+
+To run this project   
+You just need to clone this repo with
+
+```bash
+  git clone
+```
+
+And change the permission to run for that you need the following script
+```bash
+    chmod +x YouTubeVideoDownloader.py
+```
+And than you can run it with
+```bash
+    ./YouTubeVideoDownloader.py
+```
+You need to install pytube and tkinter to use this script   
+To download pytube and tkinter just type
+
+```bash
+    pip3 install pytube 
+    pip3 install tkinter
+```
+
+If you face any issue with download path just change it with your desired loaction and you are good to go.
